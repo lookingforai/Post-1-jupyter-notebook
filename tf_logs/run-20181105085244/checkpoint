@@ -1,0 +1,4 @@
+model_checkpoint_path: "my_model.ckpt"
+all_model_checkpoint_paths: "..\\run-20181105084955\\my_model.ckpt"
+all_model_checkpoint_paths: "..\\run-20181105085123\\my_model.ckpt"
+all_model_checkpoint_paths: "my_model.ckpt"
